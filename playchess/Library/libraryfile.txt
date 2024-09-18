@@ -1,0 +1,10 @@
+Python Programming,John Smith,Programming,5
+Data Science Handbook,Jane Doe,Data Science,1
+Persuasion,Jane Austen,romance,2
+Mansfield Park,Jane Austen,romance,1
+Northanger Abbey,Jane Austen,romance,3
+Jane Eyre,Charlotte Brontë,romance,6
+Our Mutual Friend,Charles Dickens,romance,1
+An American Tragedy,Theodore Dreiser,romance,1
+Adam Bede,George Eliot,romance,1
+Like Water for Chocolate,Laura Esquivel,romance,2
